@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMess", "QueryMess\QueryMess.csproj", "{B80051D5-0CE4-45C0-B751-B25A95D0867A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80051D5-0CE4-45C0-B751-B25A95D0867A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80051D5-0CE4-45C0-B751-B25A95D0867A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80051D5-0CE4-45C0-B751-B25A95D0867A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80051D5-0CE4-45C0-B751-B25A95D0867A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFBA508-661A-4086-8124-1A46025A42B7}
+	EndGlobalSection
+EndGlobal

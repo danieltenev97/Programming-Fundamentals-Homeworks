@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArrays2", "SumArrays2\SumArrays2.csproj", "{B75D1382-3B27-4F3A-93F0-750DB96EAE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75D1382-3B27-4F3A-93F0-750DB96EAE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75D1382-3B27-4F3A-93F0-750DB96EAE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75D1382-3B27-4F3A-93F0-750DB96EAE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75D1382-3B27-4F3A-93F0-750DB96EAE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00B953A-A96F-42B3-A3B8-FF866CF66EBA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomiseElementsofArray", "RandomiseElementsofArray\RandomiseElementsofArray.csproj", "{DF72099F-F2C8-4FA3-B51E-25AE98976D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF72099F-F2C8-4FA3-B51E-25AE98976D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF72099F-F2C8-4FA3-B51E-25AE98976D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF72099F-F2C8-4FA3-B51E-25AE98976D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF72099F-F2C8-4FA3-B51E-25AE98976D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA54018-F343-4A6B-97AC-06E467F71475}
+	EndGlobalSection
+EndGlobal

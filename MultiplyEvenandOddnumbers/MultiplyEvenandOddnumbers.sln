@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvenandOddnumbers", "MultiplyEvenandOddnumbers\MultiplyEvenandOddnumbers.csproj", "{49DB0086-81C0-4B76-8EDE-3C75CED10EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DB0086-81C0-4B76-8EDE-3C75CED10EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DB0086-81C0-4B76-8EDE-3C75CED10EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DB0086-81C0-4B76-8EDE-3C75CED10EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DB0086-81C0-4B76-8EDE-3C75CED10EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32CD237-DEA6-45F7-B9FC-DEF7819252D9}
+	EndGlobalSection
+EndGlobal
